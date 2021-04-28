@@ -6,10 +6,14 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with AWS Cloud
 - 💬 Ask me about Flutter
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amanxnanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mrkaydev" height="30" width="40" style="background-color: #ffffff;" /></a>
+<a href="https://twitter.com/amanxnanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrkadyev" height="30" width="40" /></a>
+  
+<br>
+<p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=amanxnanda" alt="amanxnanda" /></p>
