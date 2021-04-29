@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/amanxnanda" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619665074~hmac=b50f188f82d40d4f385027e2a4a2de23" alt="mrkadyev" height="30" width="40" /></a>
   
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&theme=tokyonight" alt="amanxnanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&theme=cobalt" alt="amanxnanda-stats" /></p>
 <br>
+<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amanxnanda&layout=compact&theme=cobalt"  alt="most-used-language">
