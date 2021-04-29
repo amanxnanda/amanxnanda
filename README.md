@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/amanxnanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrkadyev" height="30" width="40" /></a>
   
 <br>
-<p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=amanxnanda" alt="amanxnanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&theme=tokyonight" alt="amanxnanda" /></p>
