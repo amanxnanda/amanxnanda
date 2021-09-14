@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&theme=cobalt" alt="amanxnanda-stats" /></p>
 <br>
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amanxnanda&layout=compact&theme=cobalt"  alt="most-used-language">
+<!-- <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amanxnanda&layout=compact&theme=cobalt"  alt="most-used-language"> -->
