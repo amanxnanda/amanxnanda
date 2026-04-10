@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amanxnanda" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="amanxnanda" height="40" width="40" style="background-color: #ffffff;" /></a>
-<a href="https://twitter.com/amanxnanda" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="amanxnanda" height="40" width="40" /></a>
-  
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&theme=cobalt" alt="amanxnanda-stats" /></p>
-<br>
-<!-- <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amanxnanda&layout=compact&theme=cobalt"  alt="most-used-language"> -->
+<a href="https://linkedin.com/in/amanxnanda" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="amanxnanda" height="20" width="20" style="background-color: #ffffff;" />amanxnanda</a>
+</br>
+<a href="https://x/amanxnanda" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="amanxnanda" height="20" width="20" />amanxnanda</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amanxnanda&theme=gruvbox-duo&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
