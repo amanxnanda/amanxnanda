@@ -159,6 +159,7 @@ const aman = {
 <br/>
 
 <div align="center">
+  <h3>🐍 Watch my contributions get eaten</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanxnanda/amanxnanda/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanxnanda/amanxnanda/output/github-snake.svg" />
