@@ -113,7 +113,7 @@ const aman = {
 <img src="https://skillicons.dev/icons?i=flutter,vue,nodejs,nestjs,graphql" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,xcode,androidstudio,docker,git,github,grafana,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,git,github,grafana,postman,figma" />
 
 ### Cloud & DBs
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,postgres,mongodb,redis" />
