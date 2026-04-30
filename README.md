@@ -129,9 +129,6 @@ const aman = {
 <a href="https://github.com/amanxnanda">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&card_width=420&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Aman's GitHub Stats" />
 </a>
-<a href="https://github.com/amanxnanda">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanxnanda&layout=compact&hide_border=true&card_width=420&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</a>
 
 <br/>
 
