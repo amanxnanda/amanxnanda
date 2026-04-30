@@ -178,9 +178,8 @@ const aman = {
     <td valign="top" width="50%" align="center">
       <h3>🎧 Now Playing</h3>
       <a href="https://open.spotify.com/user/8lmcmgsa6ipk2610fbv8s1rku">
-        <img src="https://spotify-github-profile.kittinan.com/api/view?uid=8lmcmgsa6ipk2610fbv8s1rku&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58A6FF&bar_color_cover=true" alt="Spotify Now Playing" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8lmcmgsa6ipk2610fbv8s1rku&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
       </a>
-      <p><sub>Live from my Spotify · powered by <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a></sub></p>
     </td>
     <td valign="top" width="50%" align="center">
       <h3>♟️ Chess.com Ratings</h3>
@@ -199,7 +198,6 @@ const aman = {
       <a href="https://www.chess.com/member/amanxnanda">
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Famanxnanda%2Fstats&query=%24.tactics.highest.rating&label=Tactics%20Best&color=2ECC71&logo=chessdotcom&logoColor=white&style=for-the-badge" alt="Chess.com Tactics" />
       </a>
-      <p><sub>Live from chess.com · auto-updating from their public API</sub></p>
     </td>
   </tr>
 </table>
