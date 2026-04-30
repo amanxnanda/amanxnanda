@@ -127,16 +127,16 @@ const aman = {
 <div align="center">
 
 <a href="https://github.com/amanxnanda">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amanxnanda&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&card_width=420&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Aman's GitHub Stats" />
 </a>
 <a href="https://github.com/amanxnanda">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanxnanda&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanxnanda&layout=compact&hide_border=true&card_width=420&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=amanxnanda&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amanxnanda&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </a>
 
 </div>
