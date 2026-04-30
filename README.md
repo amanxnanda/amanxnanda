@@ -177,8 +177,8 @@ const aman = {
   <tr>
     <td valign="top" width="50%" align="center">
       <h3>🎧 Now Playing</h3>
-      <a href="https://open.spotify.com/user/AMAN_SPOTIFY_UID">
-        <img src="https://spotify-github-profile.kittinan.com/api/view?uid=AMAN_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58A6FF&bar_color_cover=true" alt="Spotify Now Playing" />
+      <a href="https://open.spotify.com/user/8lmcmgsa6ipk2610fbv8s1rku">
+        <img src="https://spotify-github-profile.kittinan.com/api/view?uid=8lmcmgsa6ipk2610fbv8s1rku&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58A6FF&bar_color_cover=true" alt="Spotify Now Playing" />
       </a>
       <p><sub>Live from my Spotify · powered by <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a></sub></p>
     </td>
