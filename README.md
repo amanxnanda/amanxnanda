@@ -10,9 +10,9 @@
 
 <br/>
 
+<a href="https://raw.githubusercontent.com/amanxnanda/amanxnanda/main/resumes/aman_5y_flutter.pdf"><img src="https://img.shields.io/badge/-Resume-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="download resume pdf" /></a>
 <img src="https://komarev.com/ghpvc/?username=amanxnanda&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="profile views" />
 <a href="https://www.linkedin.com/in/amanxnanda"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://x.com/amanxnanda"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
 <a href="mailto:amannanda8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 </div>
